@@ -2,6 +2,7 @@
 layout: default
 title: Color
 parent: Utilities
+grand_parent: Sample Page
 nav_order: 3
 ---
 

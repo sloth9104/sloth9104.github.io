@@ -2,6 +2,7 @@
 layout: default
 title: Typography
 parent: UI Components
+grand_parent: Sample Page
 nav_order: 1
 ---
 

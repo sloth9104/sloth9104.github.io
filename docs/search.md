@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+parent: Sample Page
 nav_order: 7
 ---
 

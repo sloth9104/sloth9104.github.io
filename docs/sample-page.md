@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Customization
-parent: Sample Page
+title: Sample Page
 nav_order: 9
+has_children: true
 ---
 
-# Customization
+# Sample Page
 {: .no_toc }
 
 ## Table of contents
