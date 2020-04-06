@@ -8,7 +8,8 @@ permalink: /
 
 # Web Docs
 
-### 목차
+## Table of contents
+{: .no_toc .text-delta }
 
 - [[2020.04.09] git & github]({{ site.baseurl }}{% link docs/2020-04-09/index.md %})
 - [[2020.12.32] test document]({{ site.baseurl }}{% link docs/2020-12-32/index.md %})
