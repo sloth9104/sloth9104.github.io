@@ -48,23 +48,38 @@ nav_order: 1
 
 ---
 
-## Collaborators vs Contributor
+## Public Repository vs Private Repository
 
-### Collaborators (협력자)
+### Public Repository (공개 저장소)
+{: .no_toc }
+ - 모든 사람들이 접근 및 확인 가능하도록 공개된 저장소
+
+### Private Repository (비공개 저장소)
+{: .no_toc }
+ - 본인 및 Collaborator로 지정된 사람만 볼 수 있는 비공개 저장소
+ - 기존에는 유료로만 지원. 2019년 초 최대 3명까지 Collaborators을 지정 가능한 선에서 무료로 변경
+
+---
+
+## Collaborator vs Contributor
+
+### Collaborator (협력자)
+{: .no_toc }
  - 프로젝트의 공동 책임자로 GitHub의 push, pull 권한을 모두 가지고 있는 사람
  - 하나의 프로젝트를 중점적으로 개발하는 개발자들은 Collaborator로 등록하여 작업하는 것이 효율적
  - <U>Private일때는 최대 3명까지 Collaborators을 지정 가능. 그 이상을 지정해 주려면 비용을 지불해야 함</U>
 
 ### Contributor (기여자)
+{: .no_toc }
  - 한 프로젝트의 커밋에 관여하는 모든 사람 (Pull Request가 받아들여진 사람)
 
 ---
 
 ## Collaborators 등록 방법
-
----
-
-## Github
+ 1. Collaborator 추가 할 Repository로 이동
+ 2. Setting => Manage access 이동
+ 3. Invite a collaborator 클릭하여 추가할 Github 계정 ID 입력
+ 4. 초대된 Github 계정 가입 메일 발송되어 승인 시 collaborator 등록 완료
 
 ---
 
