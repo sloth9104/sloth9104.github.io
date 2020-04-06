@@ -17,7 +17,7 @@ nav_order: 2
 
 ---
 
-## Git 작업시 주로 사용하는 명령어
+## 주로 사용하는 Git 명령어
 
 <table class="blog_tbl">
     <tr>
@@ -139,24 +139,29 @@ nav_order: 2
 
 ## Branch 종류 [Git-Flow 참고]
 
-### Master Branch : 제품으로 출시될 수 있는 브랜치 (배포)
+### Master Branch
+ - **제품으로 출시될 수 있는 브랜치 (배포)**
  - 저장소 생성시 master branch 생성됨
  - 배포 가능한 상태만을 관리, 커밋할 때에는 태그를 사용하여 배포 번호를 기록
 
-### Develop Branch : 다음 출시 버전을 개발하는 브랜치 (개발) (병합 대상)
+### Develop Branch
+ - **다음 출시 버전을 개발하는 브랜치 (개발) (병합 대상)**
  - 이 브랜치를 기반으로 개발을 진행
 
-### Feature Branch : 기능을 개발하는 브랜치 
+### Feature Branch
+ - **기능을 개발하는 브랜치**
  - 기능 개발, 개발 완료 시 Develop Branch로 병합
  - 기본적으로 공유할 필요가 없기 때문에, 원격으로는 관리하지 않음
  - Feature/{branch-name}
 
-### Release Branch : 이번 출시 버전을 준비하는 브랜치 (출시)
+### Release Branch
+ - **이번 출시 버전을 준비하는 브랜치 (출시)**
  - 릴리즈를 위한 최종적인 버그 수정 등의 개발을 수행
  - 버그를 수정하거나 새로운 기능을 포함한 상태로 모든 기능이 정상적으로 동작하는지 확인
  - 브랜치의 이름은 관례적으로 브랜치 이름 앞에 'release-' 를 붙임
 
-### Hotfix Branch : 출시 버전에서 발생한 버그를 수정 하는 브랜치 (버그)
+### Hotfix Branch
+ - **출시 버전에서 발생한 버그를 수정 하는 브랜치 (버그)**
  - 배포한 버전에 긴급하게 수정을 해야 할 필요가 있을 경우, 'master' 브랜치에서 분기하는 브랜치
  - 브랜치 이름 앞에 'hotfix-'를 붙입
 
@@ -183,14 +188,15 @@ nav_order: 2
 
 ## 소스트리 (SourceTree)
  - GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 Atlassian에서 개발한 프로그램
- - 개인과 기업 모두 무료
- - 이클립스에서도 GIT 플러그인은 지원하지만,,,,,,, 많은 사람들이 소스트리를 더 추천하는 듯함
+ - 개인/기업 모두 무료
 
 ![](https://sloth9143.github.io/assets/img/blog/develop/sourcetree.png){: style="width:600px;"}
+
+<br/>
 
 ---
 
 [01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/2020-04-09/01-git-github.md %}#typography){: .btn .btn-outline }
-[03. Local Repository Setting]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
+[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
 
 ---

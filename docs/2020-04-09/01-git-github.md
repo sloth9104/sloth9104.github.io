@@ -68,6 +68,6 @@ nav_order: 1
 
 ---
 
-[02. Git 기본 문법]({{ site.baseurl }}{% link docs/2020-04-09/02-git-basic-grammar.md %}#typography){: .btn .btn-outline }
+[02. Git 개념 및 명령어]({{ site.baseurl }}{% link docs/2020-04-09/02-git-basic-grammar.md %}#typography){: .btn .btn-outline }
 
 ---

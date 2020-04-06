@@ -1,12 +1,12 @@
 ---
 layout: default
-title: '04. 원격저장소 업로드'
+title: '05. SourceTree 사용 방법'
 parent: '[2020.04.09] git & github'
-nav_order: 4
+nav_order: 6
 #nav_exclude: true
 ---
 
-# Remote Repository Upload
+# SourceTree 사용 방법
 {: .no_toc }
 
 ## Table of contents
@@ -20,7 +20,6 @@ nav_order: 4
 
 ---
 
-[03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
 [05. MarkDown 문법]({{ site.baseurl }}{% link docs/2020-04-09/05-markdown.md %}#typography){: .btn .btn-outline }
 
 ---
