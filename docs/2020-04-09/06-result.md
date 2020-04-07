@@ -1,12 +1,12 @@
 ---
 layout: default
-title: '05. SourceTree 사용 방법'
+title: '06. 참고사항'
 parent: '[2020.04.09] git & github'
 nav_order: 6
 #nav_exclude: true
 ---
 
-# SourceTree 사용 방법
+# 업로드 관련 참고사항
 {: .no_toc }
 
 ## Table of contents
@@ -17,15 +17,17 @@ nav_order: 6
 
 ---
 
-## Github 계정 로그인
+## 수정해야 할 파일 위치
+```bash
+# docs 파일 경로
+$ /docs/
+```
 
----
+```bash
+# 이미지 경로
+$ /assets/images/
+```
 
-## Clone 가져오기
-
----
-
-## Pull / Commit / Push
 
 ---
 

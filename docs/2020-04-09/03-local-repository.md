@@ -6,7 +6,7 @@ nav_order: 3
 #nav_exclude: true
 ---
 
-# 로컬저장소 환경설정
+# 로컬저장소 개발환경 설정하기
 {: .no_toc }
 
 ## Table of contents
@@ -32,7 +32,10 @@ nav_order: 3
 
 ### SourceTree 설치
  - GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 Atlassian에서 개발한 프로그램
+ - 개인/기업 모두 무료
  - 다운로드 링크([https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/))
+
+![](https://sloth9143.github.io/assets/img/blog/develop/sourcetree.png){: style="width:600px;"}
 
 ---
 
@@ -47,6 +50,14 @@ nav_order: 3
   - 명령어
  2. 소스트리를 활용하여 Remote Repository 가져오기
   - 캡쳐본?
+
+---
+
+## Jekyll 이란?
+{: .no_toc }
+ - Github에서 개발한 정적 웹사이트를 Generator하는 Tool
+ - HTML/CSS등의 정적파일만으로 사이트를 생성하므로 매우 빠르고 가벼우며 무료임
+ - Jekyll Themes ( [http://jekyllthemes.org/](http://jekyllthemes.org/) )
 
 ---
 

@@ -186,16 +186,6 @@ nav_order: 2
 
 ---
 
-## 소스트리 (SourceTree)
- - GIT을 GUI로 사용자가 더 쉽게 사용할 수 있도록 하는 Atlassian에서 개발한 프로그램
- - 개인/기업 모두 무료
-
-![](https://sloth9143.github.io/assets/img/blog/develop/sourcetree.png){: style="width:600px;"}
-
-<br/>
-
----
-
 [01. Git & Github 기본설명]({{ site.baseurl }}{% link docs/2020-04-09/01-git-github.md %}#typography){: .btn .btn-outline }
 [03. 로컬저장소 환경설정]({{ site.baseurl }}{% link docs/2020-04-09/03-local-repository.md %}#typography){: .btn .btn-outline }
 
