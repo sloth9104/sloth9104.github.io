@@ -128,12 +128,17 @@ nav_order: 2
     </tr>
 </table>
 
-## Merge vs Rebase 차이점
+## Merge vs Rebase
 {: .no_toc }
  - **merge(바로 합치기)**
    - 변경 내용의 이력이 모두 그대로 남아 있기 때문에 이력이 복잡해짐
  - **rebase(브랜치 이력 재정렬하기)**
    - 이력은 단순해지지만, 원래의 커밋 이력이 변경됨. 정확한 이력을 남겨야 할 필요가 있을 경우에는 사용하면 안됨.
+
+## Commit vs Push
+{: .no_toc }
+
+![]({% link assets/images/2020-04-09/02-basic-01.png %}){: style="border:1px solid rgb(0,0,0);"}
 
 ---
 
